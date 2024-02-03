@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: black;
+    width: 1300px;
+    height: 85px;
+    
+    text-align: center;
+}
+.h1{
+    color: white;
+    padding-top: 5px;
+}
+.h2{
+    color: gray;
+    padding: 1px;
+}
+.h2:hover{
+    color: white;
+    cursor: pointer;
+}
+.dishes{
+    padding-top: 40px;
+    text-align: center;
+}
+.one{
+    display: inline-block;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    width: 230px;
+    height: 409px;
+}
+img{
+    width: 230px;
+    height: 300px;
+
+}
+.two{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    margin-left: 65px;
+    padding-top: 5px;
+    
+}
+.contact{
+    background-color: black;
+    width: 1250px;
+    height: 200px;
+    text-align: center;
+    margin: 35px;
+    padding-top: 20px;
+}
+.c{
+    color: white;
+}
+.gray{
+    color: gray;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+    width: 400px;
+    
+    text-align: center;
+    
+}
